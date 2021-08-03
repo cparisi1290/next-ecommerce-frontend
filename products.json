@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Rhoeo Oyster Plant",
+    "content": "Rhoeo Oyster Tradescantia spathacea is a superb houseplant with colorful striped leaves featuring white, green and pink! ",
+    "meta_description": "Deep purple is featured on the underside of the leaves, and to keep that color, we recommend medium to bright light. Thoroughly water as the soil begins to dry, and frequently mist the plant to emulate humidity, especially during dry or cold months. The peculiar look of this houseplant will give your home a new look that is sure to turn heads! Rhoeo Discolor is commonly called Moses in the Cradle.",
+    "meta_title": "Rhoeo Oyster Plant",
+    "price": 12.95,
+    "slug": "rhoeo-oyster-plant",
+    "published_at": "2021-08-02T22:17:43.522Z",
+    "created_at": "2021-08-02T22:17:36.327Z",
+    "updated_at": "2021-08-02T22:17:43.541Z",
+    "image": {
+      "id": 1,
+      "name": "rhoeo_oyster_plant.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1000,
+      "height": 1000,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_rhoeo_oyster_plant.jpg",
+          "hash": "thumbnail_rhoeo_oyster_plant_2964a5159d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 7.25,
+          "path": null,
+          "url": "/uploads/thumbnail_rhoeo_oyster_plant_2964a5159d.jpg"
+        },
+        "medium": {
+          "name": "medium_rhoeo_oyster_plant.jpg",
+          "hash": "medium_rhoeo_oyster_plant_2964a5159d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 750,
+          "size": 85.83,
+          "path": null,
+          "url": "/uploads/medium_rhoeo_oyster_plant_2964a5159d.jpg"
+        },
+        "small": {
+          "name": "small_rhoeo_oyster_plant.jpg",
+          "hash": "small_rhoeo_oyster_plant_2964a5159d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 45.44,
+          "path": null,
+          "url": "/uploads/small_rhoeo_oyster_plant_2964a5159d.jpg"
+        }
+      },
+      "hash": "rhoeo_oyster_plant_2964a5159d",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 135.72,
+      "url": "/uploads/rhoeo_oyster_plant_2964a5159d.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-08-02T22:14:14.099Z",
+      "updated_at": "2021-08-02T22:14:14.111Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Monstera Deliciosa",
+    "content": "Heart-shaped, glossy leaves lend a full look to Monstera deliciosa, also known as the Swiss Cheese Plant. The leaves on the plant’s vibrant, robust silhouette develop natural holes, hence its nickname, for a unique, signature touch that sets Monstera apart from other indoor varieties.",
+    "meta_description": "The Monstera is native to tropical rainforests, where its iconic foliage allows the sun to reach the forest floor. Now, you get the exotic look of the tropics in your homescape with your Monstera, which is sized perfectly for the indoors yet still offers vivid color and volume.\n\nAnd it’s adaptable to indoor conditions, thriving in bright, indirect light, or fluorescent lighting. This, plus the fact that it’s tolerant to missed waterings, means it’s ideal for any grower, from novices and frequent travelers to seasoned plant experts.",
+    "meta_title": "Monstera Deliciosa (Swiss Cheese Plant)",
+    "price": 29.95,
+    "slug": "monstera-deliciosa",
+    "published_at": "2021-08-02T22:20:18.418Z",
+    "created_at": "2021-08-02T22:20:17.092Z",
+    "updated_at": "2021-08-02T22:20:18.432Z",
+    "image": {
+      "id": 2,
+      "name": "Monstera_delisiosa.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 650,
+      "height": 650,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Monstera_delisiosa.jpg",
+          "hash": "thumbnail_Monstera_delisiosa_11c24ee594",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 6.24,
+          "path": null,
+          "url": "/uploads/thumbnail_Monstera_delisiosa_11c24ee594.jpg"
+        },
+        "small": {
+          "name": "small_Monstera_delisiosa.jpg",
+          "hash": "small_Monstera_delisiosa_11c24ee594",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 44.75,
+          "path": null,
+          "url": "/uploads/small_Monstera_delisiosa_11c24ee594.jpg"
+        }
+      },
+      "hash": "Monstera_delisiosa_11c24ee594",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 59.62,
+      "url": "/uploads/Monstera_delisiosa_11c24ee594.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-08-02T22:20:12.672Z",
+      "updated_at": "2021-08-02T22:20:12.681Z"
+    }
+  }
+]
